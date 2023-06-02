@@ -2,6 +2,7 @@
 # Steps for setting:
 # Step 1 : Install python3.8 , and pip
 apt-get update
+
 apt-get upgrade
 add-apt-repository ppa:deadsnakes/ppa -y
 apt install software-properties-common
